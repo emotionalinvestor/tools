@@ -1,1 +1,7 @@
-# tools
+## Install
+
+`yarn`
+
+## Run
+
+`yarn start`
